@@ -16,22 +16,29 @@ In order evaluate sales performance , we focused on following key metrics:
 * Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews <br>
  
  ### Trends 
-  * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br> During festivals customers offline shopping for urgent needs to avoid potential delivery delays. <br>
+   * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
+   * During festivals customers offline shopping for urgent needs to avoid potential delivery delays. <br>
  ### Delivery Pattern
-  * Order reach carriers more promptly than they are delivered to customers. This can be due to long distance, overwhelming volume,weather conditions or incorrect address.
-  * There is high demand during November 2017 and 2018 March which causes late delivery spikes.
-  * So the overwhelming volume can be the main reason of carrier delays.
+   * Order reach carriers more promptly than they are delivered to customers. This can be due to long distance, overwhelming volume,weather conditions or incorrect address.
+   * There is high demand during November 2017 and 2018 March which causes late delivery spikes.
+   * So the overwhelming volume can be the main reason of carrier delays.
  ### Customer Behavior 
- * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
-* Late deliveries and bad product quality affects customer feedback.
-  ### Product Analysis 
+   * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
+   * Late deliveries and bad product quality affects customer feedback.
+ ### Product Analysis 
    * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with highest positive feedback (0.80).<br>
    * Security and Services is least popular among all products with number of orders 2 and having negative feedback (0.50)
 
-  ### Payment
+ ### Payment
    * 74% of transaction includes payment with credit card. ,br>
-  * With the average of installments 2.85 <br>
-  * Some peole are using multiple voucher in one order.
+   * With the average of installments 2.85 <br>
+   * Some peole are using multiple voucher in one order.
+
+# Recommendations
+ * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
+ * Strategic Warehouse Locations : Evaluate the startegic placement of warehouses to minimize delivery times and costs.
+ * Supply Chain Partnership : Foster strong relationship with suppliers and logistic providers to ensure efficient chain operations.
+ * Top Product : Promote high demand product to attract customers and sales.  
 
 
 
