@@ -15,6 +15,6 @@ In order evaluate sales performance , we focused on following key metrics:
 * Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews <br>
 * Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior
 # Trends 
-* Trends : 
+* Trends : There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br> 
 
 
