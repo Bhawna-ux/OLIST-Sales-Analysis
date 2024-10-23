@@ -41,7 +41,8 @@ In order evaluate sales performance , we focused on following key metrics:
  * Top Product : Promote high demand product to attract customers and sales.  
 
 # DashBoard 
-This is An Overview dashboard. The full report can be found in PowerBi public<br>
+This is An Overview dashboard. The full report can be found in PowerBi public. 
+<br>
 ![image](https://github.com/user-attachments/assets/2e080723-d37e-4794-9f69-045c50e8e147)
 
 
