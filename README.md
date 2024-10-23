@@ -10,10 +10,10 @@ The OLIST Store app allows sellers to manage their online sales, receive order n
 OLIST Store analysis can help businesses optimize marketing strategies and inventory management by providing insights into customer behavior, payment mode, customer satisfaction, and top performing cities. 
 # Insights
 In order evaluate sales performance , we focused on following key metrics:
-Sales Trends : Analyzed overall sales patterns and sesonal fluctuations
-Customer Behavior : Investigated customer satisfaction level 
-Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews
-Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior
+* Sales Trends : Analyzed overall sales patterns and sesonal fluctuations <br>
+* Customer Behavior : Investigated customer satisfaction level <br>
+* Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews <br>
+* Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior
 # Trends 
 * Trends : 
 
