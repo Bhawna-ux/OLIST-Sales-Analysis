@@ -1,2 +1,2 @@
 # OLIST-Sales-Analysis
-The goal of this project is to investigate the performance of OLIST based on <br> Sales Trends <br> Customer Behaviour <br> Product performance <br> Deliveries Pattern
+The objective of this project is to forecast future growth trajectories and identify actionable insights to support strategic decision-making.
