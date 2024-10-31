@@ -19,9 +19,10 @@ In order evaluate sales performance , we focused on following key metrics:
    * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
    * During festivals customers offline shopping for urgent needs to avoid potential delivery delays. <br>
  ### Delivery Pattern
-   * Order reach carriers more promptly than they are delivered to customers. This can be due to long distance, overwhelming volume,weather conditions or incorrect address.
-   * There is high demand during November 2017 and 2018 March which causes late delivery spikes.
-   * So the overwhelming volume can be the main reason of carrier delays.
+   * Order reach carriers more promptly than they are delivered to customers. This can be due to long distance, overwhelming volume,weather conditions or incorrect address.<br>
+   * There is high demand during November 2017 and 2018 March which causes late delivery spikes.<br>
+   * So the overwhelming volume can be the main reason of carrier delays.<br>
+   * There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)
  ### Customer Behavior 
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback.
