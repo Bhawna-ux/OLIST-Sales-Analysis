@@ -10,29 +10,29 @@ The OLIST Store app allows sellers to manage their online sales, receive order n
 OLIST Store analysis can help businesses optimize marketing strategies and inventory management by providing insights into customer behavior, payment mode, customer satisfaction, and top performing cities. 
 # Insights
 In order evaluate sales performance , we focused on following key metrics:
-* Sales Trends : Analyzed overall sales patterns and sesonal fluctuations <br>
-* Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior <br>
-* Customer Behavior : Investigated customer satisfaction level and reason behind negative reviews <br>
-* Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews <br>
+* Sales Trends : Analyzed overall sales patterns and sesonal fluctuations to drive more sales. <br>
+* Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior in order to avoid late deliveries. <br>
+* Customer Behavior : Investigated customer satisfaction level and reason behind negative reviews. <br>
+* Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews so that we can offer customers their desirable products. <br>
  
  ### Trends 
    * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
-   * During festivals customers offline shopping for urgent needs to avoid potential delivery delays. <br>
+   * During festival season, customers go for offline shopping for urgent needs to avoid potential delivery delays. <br>
  ### Delivery Pattern
    * Order reach carriers more promptly than they are delivered to customers. This can be due to long distance, overwhelming volume,weather conditions or incorrect address.<br>
    * There is high demand during November 2017 and 2018 March which causes late delivery spikes.<br>
-   * So the overwhelming volume can be the main reason of carrier delays.<br>
-   * There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)
+   * So the **overwhelming volume can be the main reason of carrier delays.** <br>
+   * **There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)**
  ### Customer Behavior 
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback.
  ### Product Analysis 
    * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with highest positive feedback (0.80).<br>
-   * Security and Services is least popular among all products with number of orders 2 and having negative feedback (0.50)
+   * Security and Services is least popular among all products with number of orders 2.
 
  ### Payment
-   * 74% of transaction includes payment with credit card. ,br>
-   * With the average of installments 2.85 <br>
+   * 74% of transaction includes payment with credit card.<br>
+   * With the average number of installments 2.85 <br>
    * Some peole are using multiple voucher in one order.
 
 # Recommendations
