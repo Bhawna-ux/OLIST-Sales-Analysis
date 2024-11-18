@@ -8,8 +8,9 @@ After a customer purchase the product from OLIST Store a seller gets notified to
 OLIST 's drop-shipping model allows small businesses to start selling online with minimal upfront costs and logistics.<br>
 The OLIST Store app allows sellers to manage their online sales, receive order notifications, and generate labels directly from their cell phone. <br>
 OLIST Store analysis can help businesses optimize marketing strategies and inventory management by providing insights into customer behavior, payment mode, customer satisfaction, and top performing cities. 
+# Executive Summary
 # Insights
-In order evaluate sales performance , we focused on following key metrics:
+In order to evaluate sales performance , we focused on following key metrics:
 * Sales Trends : Analyzed overall sales patterns and sesonal fluctuations to drive more sales. <br>
 * Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior in order to avoid late deliveries. <br>
 * Customer Behavior : Investigated customer satisfaction level and reason behind negative reviews. <br>
