@@ -19,6 +19,7 @@ In order to evaluate sales performance , we focused on following key metrics:
  ### Trends 
    * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
    * During festival season, customers go for offline shopping for urgent needs to avoid potential delivery delays. <br>
+   
    ![image](https://github.com/user-attachments/assets/a130d442-e9ae-4c3d-8a4b-029ca884c342)
 
  ### Delivery Pattern
@@ -26,6 +27,7 @@ In order to evaluate sales performance , we focused on following key metrics:
    * There is high demand during November 2017 and 2018 March which causes late delivery spikes.<br>
    * So the **overwhelming volume can be the main reason of carrier delays.** <br>
    * **There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)**
+     <br>
      ![image](https://github.com/user-attachments/assets/710dc833-9987-4468-99de-e26c344f5dcd)
 
  ### Customer Behavior 
@@ -33,13 +35,15 @@ In order to evaluate sales performance , we focused on following key metrics:
    * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.
  ### Product Analysis 
    * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with highest positive feedback (0.80).<br>
-   * Security and Services is least popular among all products with number of orders 2.
+   * Security and Services is least popular among all products with number of orders 2.<br>
+   
      ![image](https://github.com/user-attachments/assets/def8002c-a7c2-4e54-899f-f956c765c06e)
 
  ### Payment
    * 74% of transaction includes payment with credit card.<br>
    * With the average number of installments 2.85 <br>
    * Some peole are using multiple voucher in one order.
+     <br>
      ![image](https://github.com/user-attachments/assets/907c9c08-5f9a-4fdd-abe2-0d74d775790a)
 
 
