@@ -26,7 +26,7 @@ In order to evaluate sales performance , we focused on following key metrics:
    * **There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)**
  ### Customer Behavior 
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
-   * Late deliveries and bad product quality affects customer feedback.
+   * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.
  ### Product Analysis 
    * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with highest positive feedback (0.80).<br>
    * Security and Services is least popular among all products with number of orders 2.
