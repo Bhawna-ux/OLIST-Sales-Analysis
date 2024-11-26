@@ -15,6 +15,7 @@ In order to evaluate sales performance , we focused on following key metrics:
 * Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior in order to avoid late deliveries. <br>
 * Customer Behavior : Investigated customer satisfaction level and reason behind negative reviews. <br>
 * Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews so that we can offer customers their desirable products. <br>
+* Refund Rate : Finding the return rate of sales.
  
  ### Trends 
    * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
@@ -46,12 +47,17 @@ In order to evaluate sales performance , we focused on following key metrics:
      <br>
      ![image](https://github.com/user-attachments/assets/907c9c08-5f9a-4fdd-abe2-0d74d775790a)
 
+### Refund Rate 
+The refund rate is 0% which indicates that :
+* Either the product quality and description align well with customer expectations. <br>
+* Or the company's policy or product category discourages returns.
 
 # Recommendations
  * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
  * Strategic Warehouse Locations : Evaluate the startegic placement of warehouses to minimize delivery times and costs.
  * Supply Chain Partnership : Foster strong relationship with suppliers and logistic providers to ensure efficient chain operations.
- * Top Product : Promote high demand product to attract customers and sales.  
+ * Top Product : Promote high demand product to attract customers and sales.
+ * Return Policy : Examine whether the return policy or product category discourages returns.
 
 # DashBoard 
 This is An Overview dashboard. The full report can be found in [PowerBi Public](https://app.powerbi.com/view?r=eyJrIjoiMzgyODQ4Y2MtM2UxYy00ZGNkLWJjMmYtNDBkMTZiMjM4N2Y1IiwidCI6ImY5MmRjNzUyLWRjY2UtNDVkZi05YmI4LWM1NGMwNzYxZWNhMiJ9&pageName=b983d8cd8060e0a612e0). 
