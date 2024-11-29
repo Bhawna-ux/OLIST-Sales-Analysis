@@ -9,6 +9,8 @@ OLIST 's drop-shipping model allows small businesses to start selling online wit
 The OLIST Store app allows sellers to manage their online sales, receive order notifications, and generate labels directly from their cell phone. <br>
 OLIST Store analysis can help businesses optimize marketing strategies and inventory management by providing insights into customer behavior, payment mode, customer satisfaction, and top performing cities. 
 # Executive Summary
+OLIST has experienced consistent growth, with a 21% increase in visitors, a 20% rise in orders, and a 20% boost in sales over the last two years. However during festival seasons particularly in June, customers prefer offline shopping. Maybe it is due to urgent needs to avoid any type of delays. Our data indicate that orders reach customer more promptly but face delivery delays. The overwhelming order volumes identified as a key contributor to carrier delays. 76% customers are satisfied with our services , have positive feedback but with 14% of negative reviews. The zero refund rate suggests either products quality alligns with customer expectations or the return policy discourages returns. Secutrity and Services is the one of the least likely product. Additionally, 74% of the transactions involve credit card payments, with an average of 2.85 installments per purchase. 
+In summary, addressing delivery delays, especially during high demand period and ensuirng timely customer communication will be critical to improving customer satisfaction.
 # Insights
 In order to evaluate sales performance , we focused on following key metrics:
 * Sales Trends : Analyzed overall sales patterns and sesonal fluctuations to drive more sales. <br>
@@ -19,7 +21,7 @@ In order to evaluate sales performance , we focused on following key metrics:
  
  ### Trends
  **How is the overall growth?**
-   * There is consistent growth in number of visitors, orders and sales amount with growth rate 21%, 20%, 20% respectively. <br>
+   * There is consistent growth in number of visitors, orders and sales with growth rate 21%, 20%, 20% respectively. <br>
    * During festival season, customers go for offline shopping for urgent needs to avoid potential delivery delays. Especially in June as country celebrates it's biggest festival. <br>
    
    ![image](https://github.com/user-attachments/assets/a130d442-e9ae-4c3d-8a4b-029ca884c342)
@@ -36,7 +38,7 @@ In order to evaluate sales performance , we focused on following key metrics:
 
  ### Customer Behavior 
  **Are customer happy or not? If they are disstaisfied what is the potential reason behind it?**
-   * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Postive and 8% neutral. <br>
+   * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Positive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.<br>
    It is important to know that <br>
    This analysis does not include feedback related to the website experience, as customer satisfaction surveys are typically administered after product delivery or when delivery is overdue.
@@ -50,7 +52,7 @@ In order to evaluate sales performance , we focused on following key metrics:
  ### Payment
    * 74% of transaction includes payment with credit card.<br>
    * With the average number of installments 2.85 <br>
-   * Some peole are using multiple voucher in one order.
+   * Some people are using multiple voucher in one order.
      <br>
      ![image](https://github.com/user-attachments/assets/907c9c08-5f9a-4fdd-abe2-0d74d775790a)
 
@@ -58,6 +60,8 @@ In order to evaluate sales performance , we focused on following key metrics:
 The refund rate is 0% which indicates that :
 * Either the product quality and description align well with customer expectations. <br>
 * Or the company's policy or product category discourages returns.
+### Note 
+This analysis excludes website-related feedback, as surveys are typically collected after product delivery or in the event of delays, and only those who have made a purchase are invited to complete the feedback form.
 
 # Recommendations
  * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
