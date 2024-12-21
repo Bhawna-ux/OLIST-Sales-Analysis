@@ -1,6 +1,6 @@
 # OLIST-Sales-Analysis
 The objective of this project is to forecast future growth trajectories and identify actionable insights to support strategic decision-making.
-# Who is OLIST and How it works ? 
+### Who is OLIST and How it works ? 
 OLIST is a Brazilian e-commerce platform that connects small businesses with customers and marketplaces. <br> OLIST connects small businesses from all over Brazil to channel without hassle and with a single contract. Those merchants are able to sell their products through the OLIST store and ship them directly to the customers using OLIST logistics partners.<br>
 OLIST acts as an intermediary between sellers and marketplaces like Mercado Livre, Americanas.com, and Submarino. Sellers can use OLIST to sell their products without having to manage their presence on each platform individually. <br>
 After a customer purchase the product from OLIST Store a seller gets notified to fulfill that order. Once the customer receives the product or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments!
