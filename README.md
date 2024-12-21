@@ -14,7 +14,7 @@ In summary, addressing delivery delays, especially during high demand period and
 # Insights
 In order to evaluate sales performance , we focused on following key metrics:
 * Sales Trends : Analyzed overall sales patterns and sesonal fluctuations to drive more sales. <br>
-* Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior in order to avoid late deliveries. <br>
+* Delivery Pattern : Analyzing cause of late deliveries and its effect on customer behvaior. <br>
 * Customer Behavior : Investigated customer satisfaction level and reason behind negative reviews. <br>
 * Product Analysis : Examined popular and unpopular product categories , priced strategies and customer reviews so that we can offer customers their desirable products. <br>
 * Refund Rate : Finding the return rate of sales.
@@ -35,11 +35,15 @@ In order to evaluate sales performance , we focused on following key metrics:
    * **There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)**
      <br>
      ![image](https://github.com/user-attachments/assets/710dc833-9987-4468-99de-e26c344f5dcd)
-
+### Refund Rate 
+The refund rate is 0% which indicates that :
+* Either the product quality and description align well with customer expectations. <br>
+* Or the company's policy or product category discourages returns.
  ### Customer Behavior 
  **Are customer happy or not? If they are disstaisfied what is the potential reason behind it?**
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Positive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.<br>
+   * Company's return policy could be a reason of negative reviews.<br>
    It is important to know that <br>
    This analysis does not include feedback related to the website experience, as customer satisfaction surveys are typically administered after product delivery or when delivery is overdue.
  ### Product Analysis 
@@ -56,19 +60,15 @@ In order to evaluate sales performance , we focused on following key metrics:
      <br>
      ![image](https://github.com/user-attachments/assets/907c9c08-5f9a-4fdd-abe2-0d74d775790a)
 
-### Refund Rate 
-The refund rate is 0% which indicates that :
-* Either the product quality and description align well with customer expectations. <br>
-* Or the company's policy or product category discourages returns.
 ### Note 
 This analysis excludes website-related feedback, as surveys are typically collected after product delivery or in the event of delays, and only those who have made a purchase are invited to complete the feedback form.
 
 # Recommendations
  * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
- * Strategic Warehouse Locations : Evaluate the startegic placement of warehouses to minimize delivery times and costs.
- * Supply Chain Partnership : Foster strong relationship with suppliers and logistic providers to ensure efficient chain operations.
  * Top Product : Promote high demand product to attract customers and sales.
  * Return Policy : Examine whether the return policy or product category discourages returns.
+ * Strategic Warehouse Locations : Evaluate the startegic placement of warehouses to minimize delivery times and costs.
+ * Supply Chain Partnership : Foster strong relationship with suppliers and logistic providers to ensure efficient chain operations.
 
 # DashBoard 
 This is An Overview dashboard. The full report can be found in [PowerBi Public](https://app.powerbi.com/view?r=eyJrIjoiMzgyODQ4Y2MtM2UxYy00ZGNkLWJjMmYtNDBkMTZiMjM4N2Y1IiwidCI6ImY5MmRjNzUyLWRjY2UtNDVkZi05YmI4LWM1NGMwNzYxZWNhMiJ9&pageName=b983d8cd8060e0a612e0). 
