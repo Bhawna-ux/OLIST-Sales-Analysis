@@ -28,11 +28,11 @@ In order to evaluate sales performance , we focused on following key metrics:
    ![image](https://github.com/user-attachments/assets/a130d442-e9ae-4c3d-8a4b-029ca884c342)
 
  ### Delivery Pattern
- **What is the reson behind late deliveries what causes late deliveries?**
+ **What is the reason behind late deliveries and what causes late deliveries?**
    * The data reveals that orders reach carriers more promptly than they are delivered to customers. This discrepancy attributed to the distance between carrier's and customer's location, overwhelming volume , 
      incorrect address or weather conditions.<br>
    * Analysis of order and visitor trends reveals a high demand during November 2017 and March 2018, leading to delivery delays and contributing to carrier disruptions.<br>
-   * So the **overwhelming volume can be the main reason of carrier delays.** <br>
+   * So the **overwhelming volume could be the main reason for carrier delays.** <br>
    * **There is a positive correlation between delay and order quantity.(Delay days tend to increase when order quantities increase.)**
      <br>
      ![image](https://github.com/user-attachments/assets/710dc833-9987-4468-99de-e26c344f5dcd)
@@ -44,14 +44,13 @@ The refund rate is 0% which indicates that :
  **Are customer happy or not? If they are disstaisfied what is the potential reason behind it?**
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Positive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.<br>
-   * Company's return policy could be a reason of negative reviews.<br>
+   * Company's return policy could be another reason of negative reviews.<br>
    It is important to know that <br>
    This analysis does not include feedback related to the website experience, as customer satisfaction surveys are typically administered after product delivery or when delivery is overdue.
  ### Product Analysis 
  **Which product is the least popular and most susceptible to customer dissatisfaction?**
-   * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with highest positive feedback (0.80).<br>
-   * Security and Services is least popular among all products with number of orders 2.<br>
-   
+   * Security and Services is least popular among all products with number of orders 2.   <br>
+   * Bed Bath Table has highest number of orders (9.4K) but Health Beauty generates highest sale amount (1.3M) with positive feedback (0.80).<br>
      ![image](https://github.com/user-attachments/assets/def8002c-a7c2-4e54-899f-f956c765c06e)
 
  ### Payment
