@@ -45,7 +45,7 @@ The refund rate is 0% which indicates that :
  **Are customer happy or not? If they are disstaisfied what is the potential reason behind it?**
    * With 4.09 of Customer Satisfaction Score (CSAT), OLIST has 14% negative reviews, 76% Positive and 8% neutral. <br>
    * Late deliveries and bad product quality affects customer feedback. Out of 14K negative feedback, 29% customers gives bad feedback due to late deliveries.<br>
-   * Company's return policy could be another reason of negative reviews.<br>
+   * Company's policy that discourage return policy could be another reason of negative reviews.<br>
    It is important to know that <br>
    This analysis does not include feedback related to the website experience, as customer satisfaction surveys are typically administered after product delivery or when delivery is overdue.
  ### Product Analysis 
