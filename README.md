@@ -63,9 +63,9 @@ The refund rate is 0% which indicates that :
 
 # Recommendations
  * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
- * Top Product : Promote high demand product to attract customers and sales.
- * Return Policy : Examine whether the return policy or product category discourages returns.
- * Strategic Warehouse Locations : Evaluate the startegic placement of warehouses to minimize delivery times and costs.
+ * Top Product : Promote high demand and quality product to attract customers and sales.
+ * Return Policy : Examine whether the return policy or product category discourages returns. Return Policy will give a positive impact on reviews and purchase.
+ * Strategic Last-Mile Delivery : Improve last mile delivery opertions by optimizing delivery personal routes and availability to minimize time taken from warehouse to customer doorstep.
  * Supply Chain Partnership : Foster strong relationship with suppliers and logistic providers to ensure efficient chain operations.
 
 # DashBoard 
