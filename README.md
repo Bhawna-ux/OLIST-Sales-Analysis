@@ -60,8 +60,6 @@ The refund rate is 0% which indicates that :
      <br>
      ![image](https://github.com/user-attachments/assets/907c9c08-5f9a-4fdd-abe2-0d74d775790a)
 
-### Note 
-This analysis excludes website-related feedback, as surveys are typically collected after product delivery or in the event of delays, and only those who have made a purchase are invited to complete the feedback form.
 
 # Recommendations
  * Special Offers and Deals : Leaverage seasonal events holidays to run targeted promotions and attract customers.
