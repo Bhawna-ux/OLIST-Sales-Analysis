@@ -22,9 +22,9 @@ In order to evaluate sales performance , we focused on following key metrics:
  ### Trends
  **How is the overall growth?**
    * There is consistent growth in number of visitors, orders and sales with growth rate 21%, 20%, 20% respectively. <br>
-   * In June, each year orders dropped and raised in next month, that is, July <br>
-   * There may two reasons for this order drop: <br>
-   ### July often sees winter promotions or back-to-school shopping, so customers may delay purchases till then. <br> Brazil celebrates Festas Juninas throughout June, especially in the northeast. This is more of a cultural/traditional celebration with local events and food rather than consumerism-driven shopping, possibly diverting focus from online shopping.
+   * In June, each year orders dropped and raised in next month, that is, July. There may two reasons: <br>
+   July often sees winter promotions or back-to-school shopping, so customers may delay purchases till then. <br>
+   Brazil celebrates Festas Juninas throughout June, especially in the northeast. This is more of a cultural/traditional celebration with local events and food rather than consumerism-driven shopping, possibly diverting focus from online shopping.
    
 
    
