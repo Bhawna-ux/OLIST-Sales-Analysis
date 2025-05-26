@@ -22,8 +22,7 @@ In order to evaluate sales performance , we focused on following key metrics:
  ### Trends
  **How is the overall growth?**
    * There is consistent growth in number of visitors, orders and sales with growth rate 21%, 20%, 20% respectively. <br>
-   * During festival season, customers go for offline shopping for urgent needs to avoid potential delivery delays. Especially in June as country celebrates it's biggest festival. <br>
-   * Before and after month of June (August and July) the sales are higher.
+   * In June, each year orders dropped and raised in next month, that is, July <br>
    
    ![image](https://github.com/user-attachments/assets/a130d442-e9ae-4c3d-8a4b-029ca884c342)
 
